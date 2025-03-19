@@ -43,3 +43,10 @@ If you want to help with this project
 - Then Submitt a pull request
 ## Lisence ⚖️
 This project was licensed under **MIT License**
+
+## (●'◡'●)Contacts
+For more of my work you can checkout 
+
+```bash
+https://www.instagram.com
+```
