@@ -1,4 +1,4 @@
-# Title
+# Java Script Basics: Variables, Conditions, and Functions
 
 ---
 
@@ -99,6 +99,7 @@ let area;
 
 *OUTSIDE SCOPE*
 ![img-4](assets/Screenshot%202025-03-22%20190754.png)
+
 ----
 
 
